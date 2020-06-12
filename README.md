@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px src="../New%20folder/images/logo.png" alt="Project logo"></a>
+ <img width=200px src="images/logo.png" alt="Project logo"></a>
 </p>
 
 <div align="left">
@@ -18,11 +18,11 @@
 <div align="center">
     <p>
         <a href="" rel="noopener">
-        <img src="../New%20folder/github/../../New%20folder/github/desktop-perspective.png"></a>
+        <img src="github/../../New%20folder/github/desktop-perspective.png"></a>
     </p>
     <p>
         <a href="" rel="noopener">
-        <img src="../New%20folder/github/gif-mobile.gif"></a>
+        <img src="github/gif-mobile.gif"></a>
     </p>  
 </div>
 
