@@ -18,7 +18,7 @@
 <div align="center">
     <p>
         <a href="" rel="noopener">
-        <img src="github/../../New%20folder/github/desktop-perspective.png"></a>
+        <img src="github/desktop-perspective.png"></a>
     </p>
     <p>
         <a href="" rel="noopener">
