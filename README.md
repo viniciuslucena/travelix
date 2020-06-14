@@ -1,10 +1,5 @@
 # TRAVELIX 🏨
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px src="images/logo.png" alt="Project logo"></a>
-</p>
-
 <div align="left">
 
 ![Status](https://img.shields.io/badge/status-finished-success.svg)
