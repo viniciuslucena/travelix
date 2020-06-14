@@ -16,7 +16,7 @@
 
 ---
 <div>
-  <img src="github/desktop-perspective.png" height="425">
+  <img src="github/desktop-perspective.png" height="425" width="40%">
   <img src="github/gif-mobile.gif" height="425">
 </div>
 
