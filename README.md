@@ -38,7 +38,7 @@ Travelix is a full responsive website to booking luxury hotels.
 
 ### Prerequisites
 
-You need to install Node.js and Yarn first, then in order to clone the project via HTTPS, run this command:
+You need to install Node.js and NPM first, then create a folder and open CMD or Powershell and run this command to clone the repository in your folder:
 
 ```
 git clone https://github.com/viniciuslucena/travelix.git
@@ -50,20 +50,18 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 git clone git@github.com:viniciuslucena/travelix.git
 ```
 
+Now, enter in the folder with this command:
+
+```
+cd travellix
+```
+
 ### Install dependencies
 
 
 ```
-yarn install
+npm install
 ```
-
-Create your enviroment variables based on the examples of ```.env.example```
-
-```
-cp .env.example .env
-```
-
-After copying the examples, make sure to fill the variables with new values.
 
 ## ⛏️ Built Using</a>
 
