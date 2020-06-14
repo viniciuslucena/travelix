@@ -1,6 +1,6 @@
 # TRAVELIX 🏨
 
-<div align="left">
+<div align="center">
 
 ![Status](https://img.shields.io/badge/status-finished-success.svg)
 ![Author](https://img.shields.io/badge/author-Vinicius%20Lucena-red)
