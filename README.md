@@ -56,12 +56,19 @@ Now, enter in the folder with this command:
 cd travellix
 ```
 
+and open the index.html with this command:
+
+```
+start index.html
+```
+<!--
 ### Install dependencies
 
 
 ```
 npm install
-```
+``` 
+-->
 
 ## ⛏️ Built Using</a>
 
