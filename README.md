@@ -15,15 +15,9 @@
 </div>
 
 ---
-<div align="center">
-    <p>
-        <a href="" rel="noopener">
-        <img src="github/desktop-perspective.png"></a>
-    </p>
-    <p>
-        <a href="" rel="noopener">
-        <img src="github/gif-mobile.gif"></a>
-    </p>  
+<div>
+  <img src="github/desktop-perspective.png" height="425">
+  <img src="github/gif-mobile.gif" height="425">
 </div>
 
 ---
